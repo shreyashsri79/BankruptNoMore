@@ -1,4 +1,4 @@
-# 💸 Expense Tracker CLI (Java)
+# 💸 Bankrupt No More
 
 A simple command-line based expense tracker built using core **Object-Oriented Programming (OOP)** concepts in Java. This project helps users manage personal expenses through an interactive terminal interface.
 
